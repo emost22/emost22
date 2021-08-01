@@ -17,7 +17,7 @@
 ## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
 
-## Github Stats
+## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
 
 ## Used Languages
