@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emost22)](https://github.com/emost22/github-readme-stats)
 
