@@ -12,7 +12,7 @@
 
 ## 📖 Educations
 + 삼성SDS 동계 대학생 알고리즘 특강 (2020.02.03 ~ 2020.02.14)
-+ 삼성 청년 SW 아카데미 (2021.01 ~ ing)
++ 삼성 청년 SW 아카데미 (2021.01.05 ~ ing)
 
 ## 🎫 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
