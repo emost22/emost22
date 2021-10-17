@@ -15,6 +15,10 @@
 + 삼성SDS 동계 대학생 알고리즘 특강 (2020.02.03 ~ 2020.02.14)
 + 삼성 청년 SW 아카데미 (2021.01.05 ~ ing)
 
+## 📚 Activities
++ 랜각코 & 알고리즘 스터디 (2021.01.25 ~ 2021.05.17)
++ SSDC 프로젝트 (2021.08.13 ~ 2021.10.08)
+
 ## 🎫 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
 
