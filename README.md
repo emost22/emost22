@@ -23,6 +23,7 @@
 + SSDC 프로젝트 (2021.08.13 ~ 2021.10.08)
 + CS 스터디 (2021.11.27 ~ ing)
 + 삼성 청년 SW 아카데미 6기 실습코치 (2021.12.30 ~ ing)
++ 토비의 스프링 Vol 1 스터디 (2022.01.10 ~ )
 
 ## 🎫 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
