@@ -33,7 +33,7 @@
 ## 📊 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emost22&layout=compact&theme=dark)](https://github.com/emost22/github-readme-stats)
 
-[![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://emoney96.tistory.com/&target=_blink)](https://emoney96.tistory.com/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femost22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=About.me&link=https://marbled-princess-5d8.notion.site/0922d714c68e40fcb7f63dc5524b1fb7)](https://marbled-princess-5d8.notion.site/0922d714c68e40fcb7f63dc5524b1fb7) [![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://emoney96.tistory.com/&target=_blink)](https://emoney96.tistory.com/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femost22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **emost22/emost22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
