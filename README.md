@@ -1,4 +1,6 @@
 #  I like Algorithm!
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
+
 [![Resume](https://img.shields.io/badge/Resume-grey?style=flat-square&logo=About.me&link=https://whyes.notion.site/c639eec409c1438c944e0de3762f8e45)](https://whyes.notion.site/c639eec409c1438c944e0de3762f8e45) [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=About.me&link=https://whyes.notion.site/0922d714c68e40fcb7f63dc5524b1fb7)](https://whyes.notion.site/0922d714c68e40fcb7f63dc5524b1fb7) [![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://emoney96.tistory.com/&target=_blink)](https://emoney96.tistory.com/)
 
 ## 🛠 Skill Stack
@@ -26,14 +28,8 @@
 + 삼성 청년 SW 아카데미 6기 실습코치 (2021.12.30 ~ ing)
 + 토비의 스프링 Vol 1 스터디 (2022.01.10 ~ ing)
 
-## 🎫 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
-
 ## 🎟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
-
-## 📊 Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emost22&layout=compact&theme=dark)](https://github.com/emost22/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femost22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
