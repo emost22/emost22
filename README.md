@@ -27,6 +27,7 @@
 + CS 스터디 (2021.11.27 ~ 2022.04.30)
 + 삼성 청년 SW 아카데미 6기 실습코치 (2021.12.30 ~ 2022.05.31)
 + Spring 스터디 (2022.05.07 ~ 2022.07.04)
++ 영어 회화 스터디 (2022.09.05 ~ ing)
 
 ## 🎟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
