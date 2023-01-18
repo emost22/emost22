@@ -32,7 +32,6 @@
 
 ## 🎟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
-
 ---
 ![snake gif](https://github.com/emost22/emost22/blob/output/github-contribution-grid-snake.svg)
 
