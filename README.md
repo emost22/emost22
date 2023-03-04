@@ -31,7 +31,7 @@
 + 삼성 청년 SW 아카데미 6기 실습코치 (2021.12.30 ~ 2022.05.31)
 + Spring 스터디 (2022.05.07 ~ 2022.07.04)
 + 영어 회화 스터디 (2022.09.05 ~ 2022.11.27)
-+ Nexters 22기 (2023.01.07 ~ ing)
++ Nexters 22기 (2023.01.07 ~ 2023.03.04)
 
 ## 🎟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
