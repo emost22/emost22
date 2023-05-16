@@ -1,6 +1,8 @@
 #  I like Algorithm!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emoney96)](https://solved.ac/emoney96/)
 
+<img src="https://api.opgc.me/githubs/users/emost22/tag/?theme=dracula" />
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=emoney96)](https://solved.ac/emoney96) [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=About.me&link=https://whyes.notion.site/0922d714c68e40fcb7f63dc5524b1fb7)](https://whyes.notion.site/0922d714c68e40fcb7f63dc5524b1fb7) [![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://emoney96.tistory.com/&target=_blink)](https://emoney96.tistory.com/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femost22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠 Skill Stack
