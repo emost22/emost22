@@ -36,6 +36,7 @@
 + Nexters 23기 CTO (2023.03.05 ~ 2023.08.19)
 + RealMySQL 1권 스터디 (2023.03.28 ~ 2023.08.21)
 + Effective Java 스터디 (2023.07.14 ~ ing)
++ RealMySQL 2권 스터디 (2023.10.17 ~ ing)
 
 ## 🎟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emost22&show_icons=true&theme=dark)
