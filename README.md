@@ -35,7 +35,7 @@
 + Nexters 22nd (2023.01.07 ~ 2023.03.04)
 + Nexters 23rd CTO (2023.03.05 ~ 2023.08.19)
 + RealMySQL 1권 스터디 (2023.03.28 ~ 2023.08.21)
-+ Effective Java 스터디 (2023.07.14 ~ ing)
++ Effective Java 스터디 (2023.07.14 ~ 2023.11.16)
 + RealMySQL 2권 스터디 (2023.10.17 ~ ing)
 + Nexters 24th (2024.01.06 ~ ing)
 
