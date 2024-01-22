@@ -11,6 +11,9 @@ on:
 
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
