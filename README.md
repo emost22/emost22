@@ -49,7 +49,7 @@
 </a>
 
 ---
-<img src="https://github.com/emost22/emost22/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/emost22/emost22/blob/output/github-snake.svg" width="100%">
 
 <!--
 **emost22/emost22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
