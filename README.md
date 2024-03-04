@@ -31,7 +31,7 @@
 + Nexters 22nd (2023.01.07 ~ 2023.03.04)
 + Nexters 23rd CTO (2023.03.05 ~ 2023.08.19)
 + Nexters 23rd (2023.07.01 ~ 2023.08.19)
-+ Nexters 24th (2024.01.06 ~ ing)
++ Nexters 24th (2024.01.06 ~ 2024.03.02)
 
 ## 🎟 GitHub Stats
 <a href="https://github.com/emost22/github-readme-stats">
