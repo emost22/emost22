@@ -6,10 +6,24 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=emoney96)](https://solved.ac/emoney96) [![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://whyeskang.com/&target=_blink)](https://whyeskang.com) [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Femost22?color=yellow&label=Hits&size=small)](https://myhits.vercel.app)
 
 ## 🛠 Skill Stack
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></img> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></img> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></img><br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></img> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></img> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></img><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></img> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></img> <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=Jira Software&logoColor=blue"/></img> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></img> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></img><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></img> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></img> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></img> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></img> <img src="https://img.shields.io/badge/CloudFront-965EF4?style=flat-square&logo=CloudFront&logoColor=white"/></img> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></img>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></img> <!-- Java -->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></img> <!-- Cpp -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></img> <!-- C -->
+<br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></img> <!-- Spring -->
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></img> <!-- Spring Boot -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></img> <!-- MySQL -->
+<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></img> <!-- GitHub -->
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></img> <!-- GitLab -->
+<img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=Jira%20Software&logoColor=blue"/></img> <!-- Jira -->
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></img> <!-- AWS -->
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/></img> <!-- EC2 -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></img> <!-- Docker -->
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></img> <!-- S3 -->
+<img src="https://img.shields.io/badge/CloudFront-965EF4?style=flat-square&logo=CloudFront&logoColor=white"/></img> <!-- CloudFront -->
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/></img> <!-- GitHub Actions -->
 
 ## 🏆 Awards
 + 2019 ACM-ICPC 본선 (Team: Corins)
