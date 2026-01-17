@@ -3,7 +3,7 @@
 
 <!-- <img src="https://api.opgc.me/githubs/users/emost22/tag/?theme=dracula" /> opgc -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=emoney96)](https://solved.ac/emoney96) [![Tech Blog Badge](http://img.shields.io/badge/Tistory-yellow?style=flat-square&logo=TVTime&link=https://whyeskang.com/&target=_blink)](https://whyeskang.com) [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Femost22?color=yellow&label=Hits&size=small)](https://myhits.vercel.app)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=emoney96)](https://solved.ac/emoney96) [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Femost22?color=yellow&label=Hits&size=small)](https://myhits.vercel.app)
 
 ## 🛠 Skill Stack
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></img> <!-- Java -->
